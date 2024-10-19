@@ -9,18 +9,20 @@ The below document discusses the idea of project risks and what can be done to m
 [Software Development Risks](/pdf/software_development_risks.pdf)
 
 
-### Artefact 2: Collaborative Discussion regarding Reusability of Code in OOP
+### Unit 6: pytest and Test-Driven Development
 
-The below artefact shows how I meet Learning Outcome 1) Appraise and critically evaluate object-oriented programming compared to other programming paradigms.
+The below links to the team assignment documents, which were submitted in Unit 6.
 
-[Collaborative Discussion](/pdf/collaborative_discussion.pdf)
+[Team Assignment](/pdf/uml_in_sdlc.pdf)
+
+### Unit 7: Software Development Life Cycles
+
+The below document discusses techniques that project managers can use to help manage the emotional responses of customers as it related to software development.
+
+[Managing The Emotional Responses Of Customers](/pdf/emotional_response_customer.pdf)
 
 
-### Artefact 3: UML Models within the Software Development Life Cycle
 
-The below artefact shows how I meet Learning Outcome 4) Propose object-oriented solutions using an appropriate modelling language, such as UML.
-
-[UML and SDLC](/pdf/uml_in_sdlc.pdf)
 
 
 ### Artefact 4: Python Code Showing Protected and Unprotected Variables
