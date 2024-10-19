@@ -12,5 +12,6 @@ Below are reflection pieces written regarding two of the assignments completed d
 [Development Individual Project - Presentation](/pdf/individual_reflection.pdf) 
 
 
-### Final Reflection - Object Oriented Programming
-[Final Reflection](/pdf/final_reflection.pdf) 
+### Final Reflection - Software Engineering Project Management
+
+[Final Reflection - Software Engineering Project Management](/pdf/sepm_final_reflection.pdf) 
