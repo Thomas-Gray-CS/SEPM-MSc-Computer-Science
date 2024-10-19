@@ -1,6 +1,8 @@
-System Design Assignment - Driverless Car
+### Team Assignment - Project Report
 
-Belowis my design proposal document for a driverless car system, along with the associated UML models that support this. This was completed as part of my system design assignment. The assignment shows how I meet Learning Outcome 4) Propose object-oriented solutions using an appropriate modelling language, such as UML.
+Below are the documents and deliverables relating to my work, as well as the work of the wider team, during the Team Assignment part of this module.
+I have included the final proposal document, as well as information relating to my specific work completed during the assignment phase.
+
 
 ### System Design Proposal Document
 
