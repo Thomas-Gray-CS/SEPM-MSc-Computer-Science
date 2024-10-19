@@ -37,6 +37,10 @@ The below document discusses techniques that project managers can use to help ma
 
 [Managing The Emotional Responses Of Customers](/pdf/emotional_response_customer.pdf)
 
+### Unit 11: Software Engineering Project Management: Future Trends
+
+The below links to the individual assignment documents, which were submitted in Unit 11
+
 
 
 
