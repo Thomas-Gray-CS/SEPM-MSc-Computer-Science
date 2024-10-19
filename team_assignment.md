@@ -4,11 +4,16 @@ Below are the documents and deliverables relating to my work, as well as the wor
 I have included the final proposal document, as well as information relating to my specific work completed during the assignment phase.
 
 
-### System Design Proposal Document
+### Final Deliverable - Project Report
 
-[Proposal Document](/pdf/design_proposal.pdf)
+This is the finalised version of the deliverable, which was submitted for grading.
 
-### UML Model To Support System Design Proposal
+[Project Report](/pdf/sepm_project_report.pdf)
+
+
+### Draft Version - Project Report
+
+This is a draft version of the report, with my written contributions highlighted.
 
 [Use Case Diagram](/pdf/use_case.pdf)
 
