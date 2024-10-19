@@ -10,6 +10,13 @@ The below is a post from a forum of students I made regarding Project Failures.
 [Why Projects Fail?](/pdf/project_failure_study.pdf)
 
 
+### Unit 2: Study: Why Projects Fail and Gathering Requirements Exercise
+
+The below is a response post I made to a student, in relation to the post from Unit 1.
+
+[Response Post](/pdf/response_post.pdf)
+
+
 ### Unit 4: Estimating Tools and Risk Assessment
 
 The below document discusses the idea of project risks and what can be done to mitigate these.
