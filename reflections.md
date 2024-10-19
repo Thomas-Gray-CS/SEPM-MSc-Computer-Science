@@ -7,9 +7,9 @@ Below are reflection pieces written regarding two of the assignments completed d
 [Development Team Project - Project Report](/pdf/team_reflection.pdf)
 
 
-### System Implementation Reflection
+### Development Individual Project - Presentation
 
-[System Implementation - Reflection](/pdf/s_ystem_implementation_reflection.pdf) 
+[Development Individual Project - Presentation](/pdf/individual_reflection.pdf) 
 
 
 ### Final Reflection - Object Oriented Programming
