@@ -15,14 +15,11 @@ This is the finalised version of the deliverable, which was submitted for gradin
 
 This is a draft version of the report, with my written contributions highlighted.
 
-[Use Case Diagram](/pdf/use_case.pdf)
+[Draft Project Report](/pdf/draft_project_report.pdf)
 
-[Class Diagram](/pdf/class_diagram.pdf)
 
-[Sequence Diagram](/pdf/sequence_diagram.pdf)
+### Assignment Reflection
 
-[Activity Diagram - GPS](/pdf/gps_activity.pdf)
+Below is my reflection on this assignment, which provides further information about my input and thought processes.
 
-[Activity Diagram - Speed Detection System](/pdf/speed_activity.pdf)
-
-[Activity Diagram - Hazard Detection System](/pdf/hazard_activity.pdf)
+[Reflection - Team Assignment](/pdf/team_reflection.pdf)
