@@ -41,7 +41,7 @@ The below document discusses techniques that project managers can use to help ma
 
 The below links to the individual assignment documents, which were submitted in Unit 11
 
-
+[Individual Assignment](/individual_assignment.md)
 
 
 
