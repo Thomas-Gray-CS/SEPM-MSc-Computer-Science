@@ -13,7 +13,8 @@ The below document discusses the idea of project risks and what can be done to m
 
 The below links to the team assignment documents, which were submitted in Unit 6.
 
-[Team Assignment](/pdf/uml_in_sdlc.pdf)
+[Team Assignment](/team_assignment.md)
+
 
 ### Unit 7: Software Development Life Cycles
 
