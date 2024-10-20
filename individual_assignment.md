@@ -4,11 +4,11 @@ Below are the documents and deliverables relating to my work on the individual a
 I have included both the final presentation and the final transcript, as well as a link to my reflection on this assignment.
 
 
-### Final Deliverable - Project Report
+### Presentation
 
-This is the finalised version of the deliverable, which was submitted for grading.
+This is the finalised version of the presentation I developed for this assignment, which was submitted for grading.
 
-[Project Report](/pdf/sepm_project_report.pdf)
+[Project Report](/pdf/sepm_presentation.pdf)
 
 
 ### Presentation Transcript
