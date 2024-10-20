@@ -13,7 +13,7 @@ This is the finalised version of the presentation I developed for this assignmen
 
 ### Presentation Transcript
 
-This is a transcript of the presentation I gave for this assignment
+This is a transcript of the presentation I gave for this assignment.
 
 [Presentation Transcript](/pdf/presentation_transcript.pdf)
 
