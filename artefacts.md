@@ -16,6 +16,12 @@ The below is a response post I made to a student, in relation to the post from U
 
 [Response Post](/pdf/response_post.pdf)
 
+### Unit 3: Estimating, Planning and Risk
+
+The below is my summary post, which relates to the work completed in Unit 1 and Unit 2.
+
+[Summary Post](/pdf/summary_post_sepm.pdf)
+
 
 ### Unit 4: Estimating Tools and Risk Assessment
 
@@ -36,6 +42,7 @@ The below links to the team assignment documents, which were submitted in Unit 6
 The below document discusses techniques that project managers can use to help manage the emotional responses of customers as it related to software development.
 
 [Managing The Emotional Responses Of Customers](/pdf/emotional_response_customer.pdf)
+
 
 ### Unit 11: Software Engineering Project Management: Future Trends
 
