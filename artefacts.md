@@ -1,7 +1,6 @@
-Object Oriented Programming - Artefacts 
+Software Engineering Project Management - Artefacts 
 
-On this page are a number of artefacts that I have gather from my studies of Object Oriented Programming as part of my MSc Computer Science course. These show my development relating to coding practice, UML and computing theory that aligns with OOP.
-
+On this page are a number of artefacts that I have gather from my studies of Software Engineering Project Management as part of my MSc Computer Science course. These show my development relating to teamwork, project management and SDLC
 
 ### Unit 1: Introduction to Software Engineering Project Management 
 
@@ -15,6 +14,7 @@ The below is a post from a forum of students I made regarding Project Failures.
 The below is a response post I made to a student, in relation to the post from Unit 1.
 
 [Response Post](/pdf/response_post.pdf)
+
 
 ### Unit 3: Estimating, Planning and Risk
 
@@ -46,7 +46,7 @@ The below document discusses techniques that project managers can use to help ma
 
 ### Unit 11: Software Engineering Project Management: Future Trends
 
-The below links to the individual assignment documents, which were submitted in Unit 11
+The below links to the individual assignment documents, which were submitted in Unit 11.
 
 [Individual Assignment](/individual_assignment.md)
 
